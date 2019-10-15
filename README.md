@@ -1,2 +1,4 @@
 # stepik---auto-tests-course
-Задания обучающего курса "Автоматизация тестирования с помощью Selenium и Python"
+https://stepik.org/course/575?auth=login
+
+Учебный репозиторий "Автоматизация тестирования с помощью Selenium и Python"
